@@ -10,5 +10,4 @@ function slideShow() {
     }
     setTimeout("slideShow()" , 5000);
 }
-
 window.onload = slideShow;
